@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Areez Abdullah 
-- 👀 I’m interested in making Ps💸 and playing footy⚽️
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta:areez_abd10 
